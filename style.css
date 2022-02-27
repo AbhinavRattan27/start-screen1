@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+   font-size: 54px;
+   text-align: center;
+   color:#dc143c;
+}
+ 
+.buttondiv{
+    text-align: center;
+    padding: 10px;
+}
+
+.button1{
+    margin: 25px;
+    font-size: 40px;
+    color: darkgoldenrod;
+}
+
+.button2{
+    margin: 20px;
+    font-size: 40px;
+    color:darkgoldenrod;
+}
